@@ -1,7 +1,7 @@
 # nginx-proxy-manager
 nginx proxy manager
 
-#git clone https://github.com/fuckowsky/nginx-proxy-manager.git
+#git clone https://github.com/fuckowsky/nginx-proxy-manager.git  
 #cd nginx-proxy-manager  
 #docker-compose up -d  
   
